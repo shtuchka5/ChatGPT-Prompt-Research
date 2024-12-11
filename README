@@ -21,10 +21,10 @@
    git clone https://github.com/shtuchka5/ChatGPT-Prompt-Research.git
 
 Перейдите в директорию репозитория:
-cd prompt-detailing-research
+cd ChatGPT-Prompt-Research
 
 Откройте Jupyter Notebook для анализа данных:
-jupyter notebook notebook/prompt_detailing_analysis.ipynb
+notebook/prompt_detailing_analysis.ipynb
 
 Как внести свой вклад
 Мы приветствуем любые предложения и улучшения! Если вы хотите внести свой вклад в проект, пожалуйста, создайте новый issue или отправьте pull request.
